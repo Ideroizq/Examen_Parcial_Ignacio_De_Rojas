@@ -52,35 +52,35 @@ build cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas: phony |
 build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio1/identificacion.cpp.obj: CXX_COMPILER__Examen_Parcial_Ignacio_De_Rojas_unscanned_Debug C$:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1/identificacion.cpp || cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas
   DEP_FILE = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio1\identificacion.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1
+  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio2 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio3 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio4
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio1
 
 build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio2/semana.cpp.obj: CXX_COMPILER__Examen_Parcial_Ignacio_De_Rojas_unscanned_Debug C$:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio2/semana.cpp || cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas
   DEP_FILE = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio2\semana.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1
+  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio2 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio3 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio4
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio2
 
 build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio3/notas.cpp.obj: CXX_COMPILER__Examen_Parcial_Ignacio_De_Rojas_unscanned_Debug C$:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio3/notas.cpp || cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas
   DEP_FILE = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio3\notas.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1
+  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio2 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio3 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio4
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio3
 
 build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio4/oferta.cpp.obj: CXX_COMPILER__Examen_Parcial_Ignacio_De_Rojas_unscanned_Debug C$:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio4/oferta.cpp || cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas
   DEP_FILE = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio4\oferta.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1
+  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio2 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio3 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio4
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio4
 
 build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/main.cpp.obj: CXX_COMPILER__Examen_Parcial_Ignacio_De_Rojas_unscanned_Debug C$:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/main.cpp || cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas
   DEP_FILE = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1
+  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio2 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio3 -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio4
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
 

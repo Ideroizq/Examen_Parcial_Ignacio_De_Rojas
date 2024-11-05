@@ -3,7 +3,7 @@ project(Examen_Parcial_Ignacio_De_Rojas)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories(Ejercicio1)
+include_directories(Ejercicio1 Ejercicio2 Ejercicio3 Ejercicio4)
 
 add_executable(Examen_Parcial_Ignacio_De_Rojas
     Ejercicio1/identificacion.cpp

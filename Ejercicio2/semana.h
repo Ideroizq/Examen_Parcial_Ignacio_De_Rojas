@@ -7,9 +7,7 @@
 
 
 
-class semana {
-
-};
+void semana();
 
 
 
