@@ -7,7 +7,7 @@
 
 void semana(){
     int b;
-    std::cout << "Introduce un numero del 1 al 7: ";
+    std::cout << "Introduce un numero del 1 al 7: " << std::endl;
     std::cin >> b;
     switch (b){
         case 1:

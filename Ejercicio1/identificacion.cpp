@@ -7,14 +7,10 @@
 
 using namespace std;
 
-int identificacion() {
+void identificacion() {
     int a;
-
-
-    cout << "Escriba un numero entero: ";
+    cout << "Escriba un numero entero: " << endl;
     cin >> a; // Se inserta el numero entero
-
-
     if (a > 0) {
         cout << "El numero es positivo." << endl; // Se imprime si el numero mayor que 0
     } else if (a < 0) {

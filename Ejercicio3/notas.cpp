@@ -12,12 +12,12 @@ int nota() {
 
     // Pide las notas de los ejercicios
     for (int i = 1; i <= num_ejercicio; ++i) {
-        cout << "Ingrese la nota del ejercicio " << i << " (entre 0 y 10): ";
+        cout << "Ingrese la nota del ejercicio " << i << " (entre 0 y 10): " << endl;
         cin >> calificacion;
 
         // Verificar
         while (calificacion < 0 || calificacion > 10) {
-            cout << "Nota invalida. Ingrese un valor entre 0 y 10: ";
+            cout << "Nota invalida. Ingrese un valor entre 0 y 10: " << endl;
             cin >> calificacion;
         }
 

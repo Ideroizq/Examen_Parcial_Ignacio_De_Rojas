@@ -5,10 +5,12 @@
 #include "Ejercicio1/identificacion.h"
 #include "Ejercicio2/semana.h"
 #include "Ejercicio3/notas.h"
+#include "Ejercicio4/oferta.h"
 
 int main() {
-    nota();
-    semana();
+    oferta();
     identificacion();
+    semana();
+    nota();
     return 0;
 }

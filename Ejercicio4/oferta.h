@@ -7,10 +7,7 @@
 
 
 
-class oferta {
-
-};
-
+int oferta();
 
 
 #endif //OFERTA_H

@@ -7,7 +7,7 @@
 
 
 
-int identificacion();
+void identificacion();
 
 
 
