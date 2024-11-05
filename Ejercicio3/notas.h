@@ -7,9 +7,7 @@
 
 
 
-class notas {
-
-};
+int nota();
 
 
 
