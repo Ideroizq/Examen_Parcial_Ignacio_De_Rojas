@@ -14,4 +14,5 @@ add_executable(Examen_Parcial_Ignacio_De_Rojas
     Ejercicio3/notas.cpp
     Ejercicio4/oferta.h
     Ejercicio4/oferta.cpp
+    main.cpp
 )

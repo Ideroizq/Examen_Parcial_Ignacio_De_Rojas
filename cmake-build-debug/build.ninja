@@ -77,6 +77,13 @@ build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio4/oferta.cpp.obj: 
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\Ejercicio4
 
+build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/main.cpp.obj: CXX_COMPILER__Examen_Parcial_Ignacio_De_Rojas_unscanned_Debug C$:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/main.cpp || cmake_object_order_depends_target_Examen_Parcial_Ignacio_De_Rojas
+  DEP_FILE = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/nacho/Documents/GitHub/Examen_Parcial_Ignacio_De_Rojas/Ejercicio1
+  OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
+  OBJECT_FILE_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Examen_Parcial_Ignacio_De_Rojas
@@ -85,7 +92,7 @@ build CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio4/oferta.cpp.obj: 
 #############################################
 # Link the executable Examen_Parcial_Ignacio_De_Rojas.exe
 
-build Examen_Parcial_Ignacio_De_Rojas.exe: CXX_EXECUTABLE_LINKER__Examen_Parcial_Ignacio_De_Rojas_Debug CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio1/identificacion.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio2/semana.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio3/notas.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio4/oferta.cpp.obj
+build Examen_Parcial_Ignacio_De_Rojas.exe: CXX_EXECUTABLE_LINKER__Examen_Parcial_Ignacio_De_Rojas_Debug CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio1/identificacion.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio2/semana.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio3/notas.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio4/oferta.cpp.obj CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Examen_Parcial_Ignacio_De_Rojas.dir
