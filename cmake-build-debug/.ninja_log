@@ -1,0 +1,11 @@
+# ninja log v6
+2	226	7525031635283333	build.ninja	b91c247fd32d2317
+8	87	7525031635572560	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio2/semana.cpp.obj	78abef6c624538c9
+20	93	7525031635682940	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio3/notas.cpp.obj	dd39d056a869c394
+28	100	7525031635754241	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio4/oferta.cpp.obj	7feae38eba60d38e
+1	271	7525031635492514	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio1/identificacion.cpp.obj	ec7b2c8472dd160e
+41	283	7525031635896069	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/main.cpp.obj	69c2d942cc462979
+284	366	7525031638317203	Examen_Parcial_Ignacio_De_Rojas.exe	ebc3caea4109b905
+16	223	7525032341284202	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/main.cpp.obj	69c2d942cc462979
+5	223	7525032341174145	CMakeFiles/Examen_Parcial_Ignacio_De_Rojas.dir/Ejercicio1/identificacion.cpp.obj	ec7b2c8472dd160e
+223	290	7525032343359814	Examen_Parcial_Ignacio_De_Rojas.exe	ebc3caea4109b905
