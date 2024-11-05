@@ -29,4 +29,5 @@ int nota() {
 
     cout << "El promedio de las calificaciones es: " << promedio << endl;
 
+
 }
